@@ -29,8 +29,7 @@ So why not have it a look :)
 
 # Thank You!
 
-OS - Windows 10 & 11
-From - Microsoft
+OS - Windows 10 & 11 : From - Microsoft
 
-Creator of this OS - Akshay The Best 
-YouTube - @AkshayTheBest
+Creator of this OS - Akshay The Best
+-- YouTube - @AkshayTheBest
