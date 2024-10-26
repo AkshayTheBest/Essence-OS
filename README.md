@@ -15,7 +15,7 @@ Every release will come 1-2 weeks later after the debut of that version on YouTu
 
 # Legal?
 
-First of all, all rights are reserved to Microsoft for their operation system Windows. I do not intend to take/steal any profits from them. I only modified or rebuilt into a really really stripped version of their OS. Even thought its illegal in their terms and condition to redistribute Windows Copies to other in public, I do have a verification from the Community Posts of NTLite (the app I used to create the base of this OS) where I asked a moderator about my OS if its illegal or not and I gave my consent, gave all my files that I use for the OS and he approved it. So, I will be using that post as my verification approval.
+Yes it is and first, all rights are reserved to Microsoft for their operation system Windows. I do not intend to take/steal any profits from them. I only modified or rebuilt into a really really stripped version of their OS. Even thought its illegal in their terms and condition to redistribute Windows Copies to other in public, I do have a verification from the Community Posts of NTLite (the app I used to create the base of this OS) where I asked a moderator about my OS if its illegal or not and I gave my consent, gave all my files that I use for the OS and he approved it. So, I will be using that post as my verification approval.
 
 Post Link : https://www.ntlite.com/community/index.php?threads/essence-os-is-it-legal.4749/
 
