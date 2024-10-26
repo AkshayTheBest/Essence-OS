@@ -5,9 +5,11 @@ Is the stripped, lightweight version of Windows that can be used for every gamer
 
 # About this Repositary
 
-This repositary is used to give out all the files and settings used for every version of Essence OS's base so you can copy it if you want to make your own Essence OS-ish OS (make sure to give me credit though). It will start from the 3.0 version of Essence OS (Windows 10).
+This repositary is used to give out all the files and settings used for every version of Essence OS's base so you can copy it if you want to make your own Essence OS-ish OS (make sure to give me credit though). It will start from the 3.0 version of Essence OS (Windows 10). This repositart will NOT include all the files that I use as its a secret from my own OS but you can take these files into NTLite and create your own BASE of Essence OS.
 
-There is currently no releases yet but it will come soon.
+Every release will come 1-2 weeks later after the debut of that version on YouTube. So check out the OS regularly and make your own after if you want the latest only.
+
+(There is currently no releases yet but it will come soon.)
 
 # Legal?
 
@@ -17,7 +19,9 @@ Post Link : https://www.ntlite.com/community/index.php?threads/essence-os-is-it-
 
 # Features And Info
 
-For more info, check out my website (its http because its a free domain) : http://essenceos.unaux.com/
+For Info about the OS, check out my website (its http because its a free domain) : http://essenceos.unaux.com/
+It will have all the overview, performance, benchmarks, files deleted, download links, version history and changelog, etc...
+So why not have it a look :)
 
 
 # Thank You!
