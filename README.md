@@ -17,14 +17,18 @@ First of all, all rights are reserved to Microsoft for their operation system Wi
 
 Post Link : https://www.ntlite.com/community/index.php?threads/essence-os-is-it-legal.4749/
 
-# Features And Info
+# Information
 
 For Info about the OS, check out my website (its http because its a free domain) : http://essenceos.unaux.com/
+
 It will have all the overview, performance, benchmarks, files deleted, download links, version history and changelog, etc...
 So why not have it a look :)
 
 
 # Thank You!
 
-Made By Akshay The Best 
+OS - Windows 10 & 11
+From - Microsoft
+
+Creator of this OS - Akshay The Best 
 YouTube - @AkshayTheBest
